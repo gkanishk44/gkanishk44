@@ -1,6 +1,6 @@
 ### Hi there 👋, I am kanishk kumar Gupta
 #### I am a Student At ABESIT,Ghaziabad.
-I was selected As a Campus Ambassador For DSC WOW event in December 2020.
+***I was selected As a Campus Ambassador For DSC WOW event in December 2020.***
 
 Do Have a Look at my Stats:
 
