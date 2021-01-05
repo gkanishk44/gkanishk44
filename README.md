@@ -1,14 +1,14 @@
-### Hi there 👋
-// README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=highcontrast&show_icons=true&count_private=true)
-
-
-Here are some ideas to get you started:
+### Hello there👋,
+### I am kanishk kumar Gupta!
 
 - 🔭 I’m currently working on C and Python.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning Web development
+
+Have a Look at my Stats-
+![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=theme&show_icons=true&count_private=true)
+
+- 👯 I’m looking to attend Workshops on AI/ML
+- 🤔 I’m looking for help On How to 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
