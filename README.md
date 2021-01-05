@@ -4,7 +4,7 @@ I was selected As a Campus Ambassador For DSC WOW event in December 2020.
 
 Do Have a Look at my Stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=theme&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=bg_color&show_icons=true&count_private=true)
 
 These are My most frequent used Languages:
 
@@ -17,7 +17,7 @@ Skills: Python | C | C++
 - 👯 I’m looking to collaborate on attending Workshops and seminars. 
 - 💬 Ask me about Doubts on Python. 
 - 📫 How to reach me: Any social media handle with gkanishk44  
-- 😄 Pronouns: he/him 
+- 😄 Pronouns: He/him 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gkanishk44)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/kanishk-k-g-a855a3138//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/g_kanishk44/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kanishk_bug)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCEp5ox5DNIl_9SKBLA-Ho4w)  
