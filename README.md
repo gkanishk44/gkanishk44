@@ -5,7 +5,9 @@ I was selected As a Campus Ambassador For DSC WOW event in December 2020.
 Do Have a Look at my Stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=theme&show_icons=true&count_private=true)
+
 These are My most frequent used Languages:
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gkanishk44)
 
 Skills: Python | C | C++
