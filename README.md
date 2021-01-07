@@ -1,27 +1,28 @@
   ### Hi there 👋, I am Kanishk kumar Gupta
-####  I am Undergrad enrolled in B.tech CSE At ABESIT,Ghaziabad.
-***I was selected As a Campus Ambassador For DSC WOW event in December 2020.***
+  
+ ###  I am Undergrad enrolled in B.tech CSE At ABESIT,Ghaziabad.
+***"I was selected As a Campus Ambassador For DSC WOW event in December 2020."***
 <p align="center">
-  <img width="300" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/122.gif">
+  <img width="390" height="340" src="https://github.com/gkanishk44/gkanishk44/blob/main/122.gif">
 </p>
 
 
 ### My Skills: Python | C | C++
  ### Things You might be interested to know about me.
 
-- 🔭 I’m currently working on A Mini Project 
-- 🌱 I’m currently learning Web Development 
+- 🔭 I’m currently working on A Mini Project. 
+- 🌱 I’m currently learning Web Development. 
 - 👯 I’m looking to collaborate on attending Workshops and seminars. 
 - 💬 Ask me about Doubts on Python. 
-- 📫 How to reach me: Any social media handle with gkanishk44  
-- 😄 Pronouns: He/him 
+- 📫 How to reach me: Any social media handle with gkanishk44.  
+- 😄 Pronouns: He/him. 
 
   
-Do Have a Look at my Stats:
+ ### Do Have a Look at my Stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=bg_color&show_icons=true&count_private=true)
 
-These are My most frequent used Languages:
+  These are My most frequent used Languages:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gkanishk44)
 
