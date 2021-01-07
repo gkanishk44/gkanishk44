@@ -5,14 +5,6 @@
   <img width="300" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/122.gif">
 </p>
 
-  
-Do Have a Look at my Stats:
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=bg_color&show_icons=true&count_private=true)
-
-These are My most frequent used Languages:
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gkanishk44)
 
 Skills: Python | C | C++
 
@@ -22,6 +14,16 @@ Skills: Python | C | C++
 - 💬 Ask me about Doubts on Python. 
 - 📫 How to reach me: Any social media handle with gkanishk44  
 - 😄 Pronouns: He/him 
+
+  
+Do Have a Look at my Stats:
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=bg_color&show_icons=true&count_private=true)
+
+These are My most frequent used Languages:
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gkanishk44)
+
 
 ### Connect with me on- 
 
