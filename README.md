@@ -1,9 +1,11 @@
   ### Hi there 👋, I am Kanishk kumar Gupta
    ###  I am Undergrad enrolled in B.tech CSE At ABESIT,Ghaziabad.
-   <p align="center">
+  
+***"I was selected As a Campus Ambassador For DSC WOW event in December 2020."***
+  
+  <p align="center">
   <img width="290" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/20210105_132829.jpg">
 </p>
-***"I was selected As a Campus Ambassador For DSC WOW event in December 2020."***
 
 ### My Skills: Python | C | C++
  ### Things You might be interested to know about me.
