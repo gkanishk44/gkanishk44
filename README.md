@@ -1,7 +1,11 @@
-### Hi there 👋, I am kanishk kumar Gupta
+  ### Hi there 👋, I am kanishk kumar Gupta
 ####  I am a Student At ABESIT,Ghaziabad.
 ***I was selected As a Campus Ambassador For DSC WOW event in December 2020.***
+<p align="center">
+  <img width="300" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/122.gif">
+</p>
 
+  
 Do Have a Look at my Stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=bg_color&show_icons=true&count_private=true)
