@@ -2,8 +2,6 @@
 ####  I am a Student At ABESIT,Ghaziabad.
 ***I was selected As a Campus Ambassador For DSC WOW event in December 2020.***
 
-https://giphy.com/stickers/teamwelead-design-share-create-Qtuv4hztwccAVHyuOP
-
 Do Have a Look at my Stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=bg_color&show_icons=true&count_private=true)
