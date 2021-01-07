@@ -6,7 +6,8 @@
 </p>
 
 
-Skills: Python | C | C++
+My Skills: Python | C | C++
+ ### Things You might be interested to know about me.
 
 - 🔭 I’m currently working on A Mini Project 
 - 🌱 I’m currently learning Web Development 
