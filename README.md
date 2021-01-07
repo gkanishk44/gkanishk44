@@ -22,7 +22,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gkanishk44&theme=bg_color&show_icons=true&count_private=true)
 
-  These are My most frequent used Languages:
+  ### These are My most frequent used Languages:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gkanishk44)
 
