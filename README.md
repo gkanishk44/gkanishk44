@@ -7,7 +7,7 @@
   <img width="290" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/20210105_132829.jpg">
 </p>
 
-### My Skills: Python | C | C++
+### My Skills: Python | C | C++ | Youtube Content Creator. 
  ### Things You might be interested to know about me.
 
 - 🔭 I’m currently working on A Mini Project. 
