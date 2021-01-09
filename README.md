@@ -3,7 +3,7 @@
   
 ***"I was selected As a Campus Ambassador For DSC WOW event in December 2020."***
   
-  <p align="center">
+  <p align="left">
   <img width="290" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/20210105_132829.jpg">
 </p>
 
