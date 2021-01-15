@@ -4,7 +4,7 @@
 ***"I was selected As a Campus Ambassador For DSC WOW event in December 2020."***
   
   <p align="left">
-  <img width="290" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/20210105_132829.jpg">
+  <img width="290" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/images/kkansi.jpg">
 </p>
 
 ### My Skills: Python | C | C++ | Youtube Content Creator. 
