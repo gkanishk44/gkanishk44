@@ -1,14 +1,10 @@
-  ### Hi there 👋, I am Kanishk kumar Gupta
-   ###  I am Undergrad enrolled in B.tech CSE At ABESIT,Ghaziabad.
-  
-***"I was selected As a Campus Ambassador For DSC WOW event in December 2020."***
-  
-  <p align="left">
+<h1 align="center">hello, I'm Kanishk kumar Gupta</h1> 
+<p align="center">
   <img width="290" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/images/kkansi.jpg">
 </p>
+<p align="center"> My Skills: Python | C | C++ | Youtube Content Creator </p>
 
-### My Skills: Python | C | C++ | Youtube Content Creator. 
- ### Things You might be interested to know about me.
+### Things You might be interested to know about me.
 
 - 🔭 I’m currently working on A Mini Project. 
 - 🌱 I’m currently learning Web Development. 
