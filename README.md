@@ -2,16 +2,16 @@
 <p align="center">
   <img width="290" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/images/kkansi.jpg">
 </p>
-<h3 align="center">Undergrad,ABESIT Ghaziabad| Internshala Student Partner '21| Youtuber |C and C++|Python 🐍</h3>
+<h3 align="center">Undergrad-ABESIT Ghaziabad | Internshala Student Partner '21 | Youtuber | C and C++ |Python 🐍</h3>
 
 ### Things You might be interested to know about me.
 
-- 🔭 I’m currently working on **A Mini Project. 
-- 🌱 I’m currently learning **Web Development. 
-- 👯 I’m looking to collaborate on ***Attending Workshops and seminars. 
-- 💬 Ask me about Doubts on **Python. 
-- 📫 How to reach me: Any social media handle with ***gkanishk44.  
-- 😄 Pronouns: **He/him. 
+- 🔭 I’m currently working on **A Mini Project** 
+- 🌱 I’m currently learning **Web Development** 
+- 👯 I’m looking to collaborate on **Attending Workshops and seminars** 
+- 💬 Ask me about Doubts on **Python** 
+- 📫 How to reach me: Any social media handle with ***gkanishk44***  
+- 😄 Pronouns: **He/him** 
 
   
  ### Do Have a Look at my Stats:
