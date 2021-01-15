@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm KANISHK KUMAR GUPTA</h1>
-
+<p align="center">
+  <img width="300" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/images/kkansi.jpg">
+</p>
 
 <h3 align="center">I am Undergrad at ABESIT,Ghaziabad | ISP 2021 |DSC WOW Campus Ambassador 2020</h3>
 
