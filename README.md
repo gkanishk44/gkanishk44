@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KANISHK KUMAR GUPTA</h1>
+<h1 align="center">Hello 👋, I'm KANISHK KUMAR GUPTA</h1>
 <p align="center">
   <img width="300" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/images/kkansi.jpg">
 </p>
