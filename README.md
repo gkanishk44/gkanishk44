@@ -26,6 +26,11 @@
 
 - ♂️ Pronouns **he/him**
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gkanishk44)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gkanishk44)  
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gkanishk44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gkanishk44" height="30" width="40" /></a>
@@ -43,6 +48,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/CodewithKanishk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodewithKanishk" /></a></p><br><br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gkanishk44)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gkanishk44)  
+
