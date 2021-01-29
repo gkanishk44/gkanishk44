@@ -43,3 +43,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/CodewithKanishk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodewithKanishk" /></a></p><br><br>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gkanishk44)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gkanishk44)  
