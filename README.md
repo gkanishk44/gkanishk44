@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Learning Web Development**
 
-- 👨‍💻 I am passionate about **Making Youtube videos** 
+- 👨‍💻 I am passionate about **Making Youtube videos And Explaining New Technologies.** 
 
 - 💬 Ask me about **C | C++ | Python**
 
