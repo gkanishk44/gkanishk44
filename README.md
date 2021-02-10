@@ -1,9 +1,6 @@
 <h1 align="center">Welcome Code Geeks 👋, I'm KANISHK KUMAR GUPTA</h1>
-<p align="center">
-  <img width="300" height="300" src="https://github.com/gkanishk44/gkanishk44/blob/main/images/kkansi.jpg">
-</p>
 
-<h3 align="center">I am Undergrad at ABESIT,Ghaziabad | ISP 2021 |DSC WOW Campus Ambassador 2020</h3>
+<h3 align="center">I am A Student at ABESIT,Ghaziabad | ISP 2021 |DSC WOW Campus Ambassador 2020</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkanishk44&label=Profile%20views&color=0e75b6&style=flat" alt="gkanishk44" /> </p>
 
