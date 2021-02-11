@@ -17,7 +17,7 @@
 
 - 👨‍💻 I am passionate about **Making Youtube videos And Explaining New Technologies.** 
 
-- 💬 Ask me about **C | C++ | Python**
+- 💬 Ask me your Doubts in **C | C++ | Python**
 
 - 📫 How to reach me **Social media handles with gkanishk44**
 
