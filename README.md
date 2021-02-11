@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [A Mini Project](https://github.com/gkanishk44/Electricity-bill-payment-Mini-Project-)
 
-- 🌱 I’m currently learning **Javascript,Kotlin**
+- 🌱 I’m currently learning **Javascript and Kotlin**
 
 - 👯 I’m looking to collaborate on **Attending Workshops and Seminars**
 
