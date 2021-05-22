@@ -45,8 +45,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/CodewithKanishk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodewithKanishk" /></a></p><br><br>
 
-
-
-
-*** out my Website hosted On Wix.com***    
-![link]("https://kanishk2019cs159.wixsite.com/gkanishk44")
+<h3 align="center">For more details Visit my LinkedIn Profile-</h3>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="kanishk-k-g-a855a3138" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kanishk-k-g-a855a3138?trk=profile-badge">Kanishk K. G.</a></div>
+              
