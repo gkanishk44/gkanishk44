@@ -45,10 +45,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/CodewithKanishk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodewithKanishk" /></a></p><br><br>
 
-<h3 align="center">For more details Visit my LinkedIn Profile-</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="kanishk-k-g-a855a3138" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kanishk-k-g-a855a3138?trk=profile-badge">Kanishk K. G.</a></div>
+<h3 align="left">For more details Visit my LinkedIn Profile-</h3>
+<a href="https://linkedin.com/in/kanishk-k-g-a855a3138" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kanishk-k-g-a855a3138" height="30" width="40" /></a>
               
-<h3> Just Finished my Hacktoberfest 2022 challenge and here are my badges </h3>
-<p><a href="[![@gkanishk44's Holopin board](https://holopin.me/gkanishk44)](https://holopin.io/@gkanishk44)>
-  </a></p>
-  
+<h3> Just Finished my Hacktoberfest 2022 challenge and here are my badges: </h3>
+<p> <img src="https://holopin.me/gkanishk44">
+  </img></p>
