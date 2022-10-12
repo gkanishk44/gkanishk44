@@ -48,3 +48,5 @@
 <h3 align="center">For more details Visit my LinkedIn Profile-</h3>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="kanishk-k-g-a855a3138" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kanishk-k-g-a855a3138?trk=profile-badge">Kanishk K. G.</a></div>
               
+              Jusr Finished my Hacktoberfest 2022 challenge and here are my badges 
+              [![@gkanishk44's Holopin board](https://holopin.me/gkanishk44)](https://holopin.io/@gkanishk44)
